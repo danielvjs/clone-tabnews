@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>alteracao para testar git push force</h1>
+    return <h1>Frase teste para deploy com git</h1>
 }
 
 export default Home;
